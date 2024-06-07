@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [merload.fr](https://merload.fr)
 
-- 💬 Ask me about **Angular,Java, Typescript, Python**
+- 💬 Ask me about **Angular,Java, Typescript, Nodejs, Devops**
 
 - 📫 How to reach me **steve@merload.fr**
 
