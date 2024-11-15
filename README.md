@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steve</h1>
 <h3 align="center">I'm a passionate full-stack software developer with a diverse skill set spanning various technologies and frameworks. With expertise in Java, TypeScript, and JavaScript, I've developed intricate web applications harnessing the power of frameworks like Angular, React, Node.js, Nest.js, and Next.js. My proficiency doesn’t stop at web technologies; I'm adept in database management, fluent in both SQL and NoSQL. I'm also well-versed with web communication protocols and methodologies such as JSON, HTTP, and GraphQL. Beyond web development, I have experience with game development platforms like Unity. My GitHub portfolio showcases a multitude of projects, reflecting a deep commitment to innovation and the mastery of full-stack development.</h3>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently preparing OCP java 17 cerfication
 
 - 👨‍💻 All of my projects are available at [merload.fr](https://merload.fr)
 
