@@ -1,7 +1,7 @@
-<h1 align="center">Steve — Full-Stack & DevOps Engineer</h1>
+<h1 align="center">Steve · Full-Stack & DevOps Engineer</h1>
 
 <p align="center">
-  <b>I build web applications and ship them to production — automated, secure and observable.</b><br/>
+  <b>I build web applications and ship them to production: automated, secure and observable.</b><br/>
   Founder of <a href="https://merload.fr">Merload</a> · Paris, France · FR / EN / IT
 </p>
 
@@ -9,19 +9,20 @@
   <a href="https://merload.fr"><img src="https://img.shields.io/badge/merload.fr-07071A?style=for-the-badge&logo=googlechrome&logoColor=3BF0DA" alt="Website"/></a>
   <a href="mailto:steve@merload.fr"><img src="https://img.shields.io/badge/steve@merload.fr-07071A?style=for-the-badge&logo=gmail&logoColor=3BF0DA" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/[YOUR-PROFILE]"><img src="https://img.shields.io/badge/LinkedIn-07071A?style=for-the-badge&logo=linkedin&logoColor=3BF0DA" alt="LinkedIn"/></a>
+  <a href="https://x.com/VynloadZone"><img src="https://img.shields.io/badge/@VynloadZone-07071A?style=for-the-badge&logo=x&logoColor=3BF0DA" alt="X (Twitter)"/></a>
 </p>
 
 ---
 
 ### About
 
-Full-stack engineer with a strong DevOps background. I've delivered production systems in **banking, energy and industrial** environments — where reliability, security and compliance aren't optional — as well as in fast-moving **startups**.
+Full-stack engineer with a strong DevOps background. I've delivered production systems in **banking, energy and industrial** environments, where reliability, security and compliance aren't optional, as well as in fast-moving **startups**.
 
 What I bring to a team:
 
-- **End-to-end ownership** — from API design and front-end to CI/CD, containers and cloud infrastructure.
-- **Production mindset** — automated pipelines, infrastructure as code, monitoring and alerting from day one.
-- **Security by design** — currently completing a **Master's in DevSecOps & Cloud-Native architecture**.
+- **End-to-end ownership:** from API design and front-end to CI/CD, containers and cloud infrastructure.
+- **Production mindset:** automated pipelines, infrastructure as code, monitoring and alerting from day one.
+- **Security by design:** currently completing a **Master's in DevSecOps & Cloud-Native architecture**.
 
 ### Currently
 
@@ -55,5 +56,5 @@ What I bring to a team:
 
 <p align="center">
   <b>Open to freelance missions and selected opportunities.</b><br/>
-  Need a web app built <i>and</i> running reliably in production? → <a href="mailto:steve@merload.fr">steve@merload.fr</a>
+  Need a web app built <i>and</i> running reliably in production? Reach out at <a href="mailto:steve@merload.fr">steve@merload.fr</a>
 </p>
